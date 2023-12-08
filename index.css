@@ -304,3 +304,6 @@ li a:hover {
         margin-top: 2rem;
     }
 }
+.under-page{
+    background: linear-gradient( 164deg, rgba(83, 83, 83, 1) 12%, rgba(128, 128, 128, 1) 100% );
+}
